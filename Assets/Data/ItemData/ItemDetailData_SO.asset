@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01b98e210e8ad2a49b7bec79cb30f26f, type: 3}
+  m_Name: ItemDetailData_SO
+  m_EditorClassIdentifier: 
+  ItemDetails:
+  - itemID: 1001
+    itemName: "\u65A7\u5934"
+    itemType: 1
+    itemIcon: {fileID: -597944745, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemOnWorldSprite: {fileID: -166008353, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemDescription: "\u8FD9\u662F\u4E00\u628A\u666E\u901A\u7684\u65A7\u5934"
+    canPickUp: 1
+    WeaponID: 1001
+    BulletID: 0
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 100
+    sellPercentage: 0.8
+  - itemID: 1002
+    itemName: "\u6728\u5236\u5F13\u7BAD"
+    itemType: 1
+    itemIcon: {fileID: -946934635, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemOnWorldSprite: {fileID: -946934635, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemDescription: 
+    canPickUp: 1
+    WeaponID: 1002
+    BulletID: 0
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 20
+    sellPercentage: 0.659
+  - itemID: 1003
+    itemName: "\u89C1\u4E60\u5927\u5251"
+    itemType: 1
+    itemIcon: {fileID: -1439581303, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemOnWorldSprite: {fileID: -1819591400, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemDescription: 
+    canPickUp: 1
+    WeaponID: 1003
+    BulletID: 0
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 30
+    sellPercentage: 0.83
+  - itemID: 1004
+    itemName: "\u7EA2\u5B9D\u77F3\u6CD5\u6756"
+    itemType: 1
+    itemIcon: {fileID: -1315819145, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemOnWorldSprite: {fileID: -1315819145, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemDescription: 
+    canPickUp: 1
+    WeaponID: 1004
+    BulletID: 0
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 40
+    sellPercentage: 0.733
+  - itemID: 1005
+    itemName: "\u7A7A\u767D\u4E4B\u4E66"
+    itemType: 1
+    itemIcon: {fileID: -1961668084, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemOnWorldSprite: {fileID: -1961668084, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemDescription: 
+    canPickUp: 1
+    WeaponID: 1004
+    BulletID: 0
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 50
+    sellPercentage: 0.667
+  - itemID: 1006
+    itemName: "\u9524\u5B50"
+    itemType: 1
+    itemIcon: {fileID: -1533319144, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemOnWorldSprite: {fileID: -1533319144, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemDescription: 
+    canPickUp: 1
+    WeaponID: 1004
+    BulletID: 0
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 60
+    sellPercentage: 0.541
+  - itemID: 1007
+    itemName: "\u6D41\u661F\u9524"
+    itemType: 1
+    itemIcon: {fileID: -1226591837, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemOnWorldSprite: {fileID: -1226591837, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemDescription: 
+    canPickUp: 1
+    WeaponID: 1004
+    BulletID: 0
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 70
+    sellPercentage: 0.548
+  - itemID: 1008
+    itemName: "\u795E\u5723\u6CD5\u6756"
+    itemType: 1
+    itemIcon: {fileID: 641851732, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemOnWorldSprite: {fileID: 641851732, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemDescription: 
+    canPickUp: 1
+    WeaponID: 1004
+    BulletID: 0
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 80
+    sellPercentage: 0.746
+  - itemID: 1009
+    itemName: "\u6728\u5236\u5F29\u7BAD"
+    itemType: 1
+    itemIcon: {fileID: -946934635, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemOnWorldSprite: {fileID: -946934635, guid: 6bac8aea8091532419d30dc32fb1cbc6, type: 3}
+    itemDescription: 
+    canPickUp: 1
+    WeaponID: 1004
+    BulletID: 0
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 90
+    sellPercentage: 0.763
+  - itemID: 1010
+    itemName: "\u53F2\u83B1\u59C6\u7C98\u6DB2"
+    itemType: 5
+    itemIcon: {fileID: 21300000, guid: 1cc5e4ead2f15b3449eb47df613703d6, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: 1cc5e4ead2f15b3449eb47df613703d6, type: 3}
+    itemDescription: "\u53F2\u83B1\u59C6\u8EAB\u4E0A\u6389\u843D\u7684\u7C98\u6DB2\uFF0C\u597D\u50CF\u53EF\u4EE5\u505A\u6B66\u5668\u6750\u6599"
+    canPickUp: 1
+    WeaponID: 0
+    BulletID: 0
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 5
+    sellPercentage: 0.5
+  - itemID: 1011
+    itemName: "\u6728\u5236\u7BAD\u5934"
+    itemType: 2
+    itemIcon: {fileID: 21300000, guid: 4e7adbed6cc4de24ebb067e5f3ca9159, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: 4e7adbed6cc4de24ebb067e5f3ca9159, type: 3}
+    itemDescription: "\u6728\u5934\u505A\u7684\u7BAD\u5934"
+    canPickUp: 1
+    WeaponID: 0
+    BulletID: 1004
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 3
+    sellPercentage: 0.5
+  - itemID: 1012
+    itemName: "\u65A7\u6C14"
+    itemType: 2
+    itemIcon: {fileID: 21300000, guid: 704602d6f0ee2a24c88b53652a82f693, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: 704602d6f0ee2a24c88b53652a82f693, type: 3}
+    itemDescription: "\u6728\u5934\u505A\u7684\u7BAD\u5934"
+    canPickUp: 1
+    WeaponID: 0
+    BulletID: 1001
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 3
+    sellPercentage: 0.5
+  - itemID: 1013
+    itemName: "\u5251\u6C14"
+    itemType: 2
+    itemIcon: {fileID: 21300000, guid: bdd46c0b439194e42b2b24e076e8f214, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: bdd46c0b439194e42b2b24e076e8f214, type: 3}
+    itemDescription: "\u6728\u5934\u505A\u7684\u7BAD\u5934"
+    canPickUp: 1
+    WeaponID: 0
+    BulletID: 1003
+    ArmorID: 0
+    RingID: 0
+    itemPrice: 30
+    sellPercentage: 0.5
+  - itemID: 1014
+    itemName: "\u6728\u5236\u76D4\u7532"
+    itemType: 3
+    itemIcon: {fileID: 21300000, guid: 74941dc0c21defa4ab84a676156d0d48, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: 74941dc0c21defa4ab84a676156d0d48, type: 3}
+    itemDescription: "\u6728\u5934\u505A\u7684\u76D4\u7532"
+    canPickUp: 1
+    WeaponID: 0
+    BulletID: 0
+    ArmorID: 1001
+    RingID: 0
+    itemPrice: 100
+    sellPercentage: 0.5
+  - itemID: 1015
+    itemName: "\u7EA2\u5B9D\u77F3\u6212\u6307"
+    itemType: 4
+    itemIcon: {fileID: 21300000, guid: 23c2380726ed70e4886b98f33390675b, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: 23c2380726ed70e4886b98f33390675b, type: 3}
+    itemDescription: "\u7EA2\u5B9D\u77F3\u9576\u5D4C\u5728\u6212\u6307\u4E0A\uFF0C\u6563\u53D1\u51FA\u6DE1\u6DE1\u7684\u7EA2\u8272\u5149\u8292"
+    canPickUp: 1
+    WeaponID: 0
+    BulletID: 0
+    ArmorID: 0
+    RingID: 1001
+    itemPrice: 300
+    sellPercentage: 0.8
+  - itemID: 1016
+    itemName: "\u7EFF\u5B9D\u77F3\u6212\u6307"
+    itemType: 4
+    itemIcon: {fileID: 21300000, guid: d569ba80dec88cd409fd9c2e20e297d5, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: d569ba80dec88cd409fd9c2e20e297d5, type: 3}
+    itemDescription: "\u7EFF\u5B9D\u77F3\u9576\u5D4C\u5728\u6212\u6307\u4E0A\uFF0C\u6563\u53D1\u51FA\u6DE1\u6DE1\u7684\u7EFF\u8272\u5149\u8292"
+    canPickUp: 1
+    WeaponID: 0
+    BulletID: 0
+    ArmorID: 0
+    RingID: 1002
+    itemPrice: 250
+    sellPercentage: 0.8
+  - itemID: 1017
+    itemName: "<color=red>\u820D\u751F\u6212\u6307</color>"
+    itemType: 4
+    itemIcon: {fileID: 21300000, guid: a5a31efdba5e5f746890e05461ca31a7, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: a5a31efdba5e5f746890e05461ca31a7, type: 3}
+    itemDescription: "\u6212\u6307\u5B9D\u77F3\u5185\u9690\u5C04\u51FA\u7329\u7EA2\u8840\u4E1D\uFF0C\u4EFF\u4F5B\u5728\u6012\u543C\u6E34\u671B\u7740\u9C9C\u8840"
+    canPickUp: 1
+    WeaponID: 0
+    BulletID: 0
+    ArmorID: 0
+    RingID: 1003
+    itemPrice: 500
+    sellPercentage: 0.8
+  - itemID: 1018
+    itemName: "<color=green>\u72C2\u5F92\u94E0\u7532</color>"
+    itemType: 3
+    itemIcon: {fileID: 21300000, guid: 5650d454842eeb6468e9a1f675f57c66, type: 3}
+    itemOnWorldSprite: {fileID: 21300000, guid: 5650d454842eeb6468e9a1f675f57c66, type: 3}
+    itemDescription: "\u6212\u6307\u5B9D\u77F3\u5185\u9690\u5C04\u51FA\u7329\u7EA2\u8840\u4E1D\uFF0C\u4EFF\u4F5B\u5728\u6012\u543C\u6E34\u671B\u7740\u9C9C\u8840"
+    canPickUp: 1
+    WeaponID: 0
+    BulletID: 0
+    ArmorID: 1002
+    RingID: 0
+    itemPrice: 600
+    sellPercentage: 0.8

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ebb22d79c8d1d1478aa8ae029c60d89, type: 3}
+  m_Name: WeaponData_SO
+  m_EditorClassIdentifier: 
+  WeaponDetails:
+  - weaponID: 1001
+    weaponName: "\u5927\u65A7\u5934"
+    timeCool: 0.5
+    angle: 5
+    bulletNum: 1
+  - weaponID: 1002
+    weaponName: "\u706B\u7130\u6756"
+    timeCool: 0.3
+    angle: 10
+    bulletNum: 2
+  - weaponID: 1003
+    weaponName: "\u89C1\u4E60\u77ED\u5251"
+    timeCool: 0.5
+    angle: 15
+    bulletNum: 3
+  - weaponID: 1004
+    weaponName: "\u5F3A\u88AD\u5F13\u7BAD"
+    timeCool: 0.3
+    angle: 15
+    bulletNum: 3

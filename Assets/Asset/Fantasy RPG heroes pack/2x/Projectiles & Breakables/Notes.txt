@@ -1,0 +1,4 @@
+// Each projectile has a main sprite, and an "impact" animation (3 frames to be played when the projectile collides).
+Magic spells also have an "initial" sprite which can be used to add a visual effect when the spell is cast, or as a smaller projectile.
+
+// Breakable items have a main sprite, a broken sprite, and a "breaking" animation (which consists of the initial state, 3 breaking frames, and the final broken state)

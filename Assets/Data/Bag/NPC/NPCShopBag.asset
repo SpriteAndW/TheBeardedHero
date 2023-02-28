@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d04b3910139e2643bd09986409c9d0a, type: 3}
+  m_Name: NPCShopBag
+  m_EditorClassIdentifier: 
+  itemList:
+  - itemID: 1006
+    itemAmount: 1
+  - itemID: 1007
+    itemAmount: 1
+  - itemID: 1008
+    itemAmount: 1
+  - itemID: 1009
+    itemAmount: 1
+  - itemID: 1010
+    itemAmount: 1
+  - itemID: 1013
+    itemAmount: 1
